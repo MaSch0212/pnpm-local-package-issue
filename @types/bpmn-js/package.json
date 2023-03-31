@@ -1,0 +1,6 @@
+{
+  "name": "@types/bpmn-js",
+  "version": "0.1.0",
+  "main": "",
+  "types": "index.d.ts"
+}
